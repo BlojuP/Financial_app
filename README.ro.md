@@ -17,7 +17,14 @@ Română | [English](README.md)
 
 ## Capturi de Ecran
 
-![Interfața Principală](screenshot.png)
+### Interfata principala
+![Interfata principala](pics/main.png)
+
+### Adauga cheltuieli
+![Adauga cheltuieli noi](pics/add%20expense.png)
+
+### Adauga venit suplimentar
+![Adauga venit suplimentar](pics/add%20new%20income.png)
 
 ## Cerințe de Sistem
 

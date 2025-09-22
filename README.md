@@ -17,7 +17,14 @@ A personal finance management application developed in Python with Tkinter GUI. 
 
 ## Screenshots
 
-![Main Interface](screenshot.png)
+### Main Interface
+![Main Interface](pics/main.png)
+
+### Add Expense Dialog
+![Add Expense](pics/add%20expense.png)
+
+### Add Additional Income
+![Add New Income](pics/add%20new%20income.png)
 
 ## System Requirements
 
